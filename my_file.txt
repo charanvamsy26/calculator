@@ -1,2 +1,3 @@
 Hello this is my text changed
 2nd line done
+3rd line
